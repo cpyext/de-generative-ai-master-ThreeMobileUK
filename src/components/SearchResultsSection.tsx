@@ -55,7 +55,7 @@ const SearchResultsSection = () => {
           faqs: {
             CardComponent: FAQCard,
             viewAllButton: true,
-            label: "Help Articles",
+            label: "FAQs",
           },
 
           products: {
